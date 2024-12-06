@@ -1,0 +1,9 @@
+[package]
+name = "crud_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mysql = "25.0"
+chrono = "0.4" # Para manejar fechas
+bitvec = "1.0.1"
