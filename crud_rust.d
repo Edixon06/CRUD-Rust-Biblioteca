@@ -1,0 +1,1 @@
+C:\Users\playe\OneDrive\Desktop\CRUD\ en\ Rust\crud_rust\target\debug\crud_rust.exe: C:\Users\playe\OneDrive\Desktop\CRUD\ en\ Rust\crud_rust\src\db.rs C:\Users\playe\OneDrive\Desktop\CRUD\ en\ Rust\crud_rust\src\estructuras.rs C:\Users\playe\OneDrive\Desktop\CRUD\ en\ Rust\crud_rust\src\funciones.rs C:\Users\playe\OneDrive\Desktop\CRUD\ en\ Rust\crud_rust\src\main.rs
